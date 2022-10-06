@@ -22,6 +22,7 @@ public class Main {
 		resultado = a * b - c * d;
 		System.out.println("(A * B) - (C * D) = " + resultado);
 		
+		scan.close();
 	}
 
 }

@@ -20,5 +20,6 @@ public class Main {
 		raio = scan.nextDouble();
 		area = pi * Math.pow(raio, 2);
 		System.out.printf("Area = %.4f", area);
+		scan.close();
 	}
 }

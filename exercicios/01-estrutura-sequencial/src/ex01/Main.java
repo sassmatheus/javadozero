@@ -16,5 +16,6 @@ public class Main {
 		soma = num1 + num2;	
 		System.out.println("Resultado: " + soma);	
 		
+		scan.close();
 	}
 }

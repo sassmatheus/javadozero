@@ -29,5 +29,4 @@ public class Aluno {
 		return 60 - media();
 	}
 	
-	
 }

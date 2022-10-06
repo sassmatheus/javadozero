@@ -27,8 +27,7 @@ public class Main {
 				System.out.println("Divisão impossível.");
 			}
 		}
-		
+
 		scan.close();
 	}
-
 }

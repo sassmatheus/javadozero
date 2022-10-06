@@ -32,7 +32,6 @@ public class Main {
 						+ "Média = %.2f%n"
 						+ "%s%n", aluno.media(), aluno.conceito());
 		
-		
 		scan.close();
 	}
 }

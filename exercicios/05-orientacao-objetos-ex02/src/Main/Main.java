@@ -37,7 +37,6 @@ public class Main {
 		System.out.printf("Nome: %s%n"
 				+ "Salário líquido: %.2f%n", funcionario.nome, funcionario.calcAumento());
 		
-		
 		scan.close();
 	}
 

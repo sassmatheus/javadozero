@@ -1,2 +1,0 @@
-# javadozero
-Curso de Java
